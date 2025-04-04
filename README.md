@@ -1,4 +1,4 @@
-## Data Driven Reachability Analysis from Noisy Data
+## Data-Driven Nonconvex Reachability Analysis using Exact Multiplication
 <br/> 
 This repo contains the code for our paper:
 
